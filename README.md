@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hey, I'm Dexter 👋
+
+Developer focused on **backend engineering and AI systems**.
+
+This GitHub is where I share backend projects, AI experiments, and things I'm currently learning.
+
+---
+
+## Tools & Tech
+
+- Java, Python, JavaScript, SQL
+- Spring Boot, FastAPI, REST APIs
+- Docker, Kubernetes, AWS, GCP, Azure
+
+---
+
+## A Bit About Me
+
+- Backend + AI developer
+- I like building useful, reliable, and scalable solutions
+
 
 <!--
 **dexbanoen/dexbanoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
