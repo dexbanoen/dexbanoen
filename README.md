@@ -1,6 +1,6 @@
-Hey 👋
+Hey I'm Dexter👋
 
-Developer focused on **backend engineering and AI systems**.
+A developer focused on **backend engineering and AI systems**.
 
 This GitHub is where I share backend projects, AI experiments, and things I'm currently learning.
 
