@@ -1,4 +1,4 @@
-Hey I'm Dexter👋
+Hey, I'm Dexter👋
 
 A developer focused on **backend engineering and AI systems**.
 
@@ -15,7 +15,7 @@ Tools & Tech
 A Bit About Me
 
 - Coffee > 
-- I like building useful, reliable, and scalable solutions
+- I like building useful, reliable, and scalable solutions 🌱
 
 
 <!--
