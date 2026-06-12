@@ -1,4 +1,4 @@
-# Hey, I'm Dexter 👋
+Hey 👋
 
 Developer focused on **backend engineering and AI systems**.
 
@@ -6,7 +6,7 @@ This GitHub is where I share backend projects, AI experiments, and things I'm cu
 
 ---
 
-## Tools & Tech
+Tools & Tech
 
 - Java, Python, JavaScript, SQL
 - Spring Boot, FastAPI, REST APIs
@@ -14,9 +14,9 @@ This GitHub is where I share backend projects, AI experiments, and things I'm cu
 
 ---
 
-## A Bit About Me
+A Bit About Me
 
-- Backend + AI developer
+- Coffee > 
 - I like building useful, reliable, and scalable solutions
 
 
