@@ -1,4 +1,4 @@
-Hey, I'm Dexter👋
+👋
 
 A developer focused on **backend engineering and AI systems**.
 
