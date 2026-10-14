@@ -12,10 +12,8 @@ Tools & Tech
 
 ---
 
-A Bit About Me
-
 - Coffee > 
-- I like building useful, reliable, and scalable solutions 🌱
+- Building useful, reliable, and scalable solutions 🌱
 
 
 <!--
